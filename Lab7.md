@@ -42,7 +42,7 @@ library(bruceR)
 
     ## 
     ## These packages are dependencies of `bruceR` but not installed:
-    ## - pacman, openxlsx, ggtext, lmtest, vars, phia, MuMIn, GGally
+    ## - pacman, openxlsx, ggtext, vars, phia, MuMIn, GGally
     ## 
     ## ***** Install all dependencies *****
     ## install.packages("bruceR", dep=TRUE)
